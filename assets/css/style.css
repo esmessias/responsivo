@@ -192,7 +192,7 @@ footer p {
   font-weight: bold;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
   header {
     flex-direction: column;
     text-align: center;
