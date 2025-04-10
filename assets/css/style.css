@@ -210,19 +210,18 @@ footer p {
   }
 
   .principal {
+    display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
   }
 
   .two {
-    width: 100%;
-    max-width: 100%;
     text-align: center;
   }
 
   .two img {
     width: 100%;
-    max-width: 100%;
     height: auto;
     display: block;
     margin: 0 auto;
